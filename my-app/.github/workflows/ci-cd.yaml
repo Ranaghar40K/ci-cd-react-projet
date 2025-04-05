@@ -1,9 +1,9 @@
-name: Deploy React App to GitHub Pages
+name: TEMP CI/CD Deploy React App
 
 on:
   push:
     branches:
-      - main  # Lance le workflow à chaque push sur la branche main
+      - main
 
 jobs:
   build-and-deploy:
